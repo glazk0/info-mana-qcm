@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "question": "Quelles propositions correspondent au rôle de Product Owner ?",
+    "type": "multiple",
+    "options": [
+      "Protège l'équipe des événements extérieurs perturbateurs",
+      "Possède la \"vision\" du produit",
+      "Crée et priorise les items du backlog",
+      "Veille à la bonne application de la méthodologie SCRUM",
+      "Aide à la collaboration entre l'équipe de développement et le Scrum Master"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Un inconvénient potentiel d'une structure organisationnelle matricielle est…",
+    "type": "single",
+    "options": [
+      "De provoquer des conflits entre responsabilité hiérarchique et fonctionnelle pouvant entraîner un manque de clarté pour les collaborateurs.",
+      "Toutes les propositions sont correctes",
+      "De limiter le choix des personnes impliquées dans un projet.",
+      "Aucune des propositions n'est correcte",
+      "De limiter le partage d'expérience.",
+      "De provoquer une concurrence interne entre les différentes divisions."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Un offre au forfait correspond à :",
+    "type": "single",
+    "options": [
+      "Aucune des propositions n'est correcte.",
+      "Un projet à prix fixe sur un périmètre défini.",
+      "Un projet dans lequel une méthodologie agile est appliquée.",
+      "Un mise à disposition d'un ou plusieurs collaborateurs à un tarif journalier fixé sur une durée définie.",
+      "Toutes les propositions sont correctes.",
+      "Une provision utilisée sur base de mini-forfaits."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Au niveau de l'étape 'Act' de la roue de Demming, on va :",
+    "type": "single",
+    "options": [
+      "Analyser l'existant.",
+      "Toutes les propositions sont correctes.",
+      "Planifier et définir les KPI.",
+      "Définir les objectifs à atteindre et les responsabilités.",
+      "Aucune des propositions n'est correcte."
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Quelles propositions correspondent au Sprint backlog ?",
+    "type": "multiple",
+    "options": [
+      "Le Sprint backlog contient le plan d'actions pour délivrer le sprint",
+      "Le Sprint backlog contient l'ensemble des PBI sélectionnés pour le sprint",
+      "Le Sprint backlog est établi par le Product Owner en prenant en compte des éléments tels que l'évolution (potentielle) du marché…",
+      "Le Sprint backlog montre visuellement le travail qui a été accompli et celui restant à accomplir pour le sprint",
+      "Le Sprint backlog contient l'objectif du sprint (objectif principal du sprint)"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qu'est-ce qu'un MVP ?",
+    "type": "single",
+    "options": [
+      "Aucune des propositions n'est correcte",
+      "Un MVP est la version d'un produit (par exemple un logiciel) qui permet d'obtenir un maximum de retours client avec un minimum d'effort",
+      "L'acronyme MVP signifie Most Valuable Product",
+      "Un MVP est un produit (par exemple un logiciel) pour lequel la phase de test a été automatisée",
+      "L'acronyme MVP signifie Most Viable Product"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qu'est-ce qu'un WBS ?",
+    "type": "single",
+    "options": [
+      "L'acronyme WBS signifie Work Breakdown System",
+      "Aucune proposition n'est correcte.",
+      "Un WBS inclut une dimension temporelle.",
+      "Le WBS est un outil de planification",
+      "Un WBS est utilisé pour identifier les responsables des tâches à effectuer",
+      "Toutes les propositions sont correctes."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Quelles propositions correspondent au Sprint planning ?",
+    "type": "multiple",
+    "options": [
+      "Le Sprint planning est la cérémonie qui montre visuellement le travail qui a été accompli et celui restant à accomplir pour le sprint",
+      "Le Sprint planning est la cérémonie qui valide l'atteinte de l'objectif du sprint (objectif principal du sprint)",
+      "Le Sprint planning est la cérémonie à laquelle participent uniquement l'équipe de développement et le Scrum master",
+      "Le Sprint planning est la cérémonie qui permet de construire le Sprint backlog",
+      "Le Sprint planning est la cérémonie durant laquelle le Product Owner décrit le Sprint Goal et décide des priorités"
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Parmi les propositions suivantes, choisissez celle(s) qui représente(nt) des objectifs de la gouvernance IT.",
+    "type": "single",
+    "options": [
+      "Assurer le bon déroulement des activités et des processus au quotidien.",
+      "Faciliter la collaboration et la coordination entre (groupes de) collaborateurs.",
+      "La mise en place de la structure organisationnelle (pyramidale, fonctionnelle, matricielle...).",
+      "L'alignement stratégique.",
+      "La définition de la nature des relations d'autorité hiérarchique et fonctionnelle."
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Le cycle en V est une évolution de la méthodologie Waterfall qui accorde plus d'importance à la validation du logiciel.",
+    "type": "single",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Que sont les thèmes dans PRINCE2 ?",
+    "type": "single",
+    "options": [
+      "Dans PRINCE2, les thèmes sont des étapes séquentielles qui guident la gestion et la réalisation d'un projet.",
+      "Aucune des propositions n'est correcte",
+      "Dans PRINCE2, les thèmes fournissent une structure pour s'assurer que tous les aspects essentiels de la gestion du projet sont correctement gérés.",
+      "Dans PRINCE2, les thèmes sont des lignes directrices fondamentales à suivre pour garantir que le projet est bien structuré, contrôlé et géré de manière appropriée.",
+      "Toutes les propositions sont correctes.",
+      "Dans PRINCE2, les thèmes sont liés à des décisions qui engagent l'organisation sur le long terme."
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "id": 12,
+    "question": "La société NSI propose à ses clients un contrat de \"Software Assurance\" (extension de la garantie contractuelle du logiciel sur mesure). Parmi les éléments ci-dessous, cochez ceux qui y sont inclus :",
+    "type": "multiple",
+    "options": [
+      "Le maintien de la connaissance au sein des équipes NSI.",
+      "Le remplacement du hardware devenu obsolète.",
+      "L'ajout sans surcoût de nouvelles fonctionnalités mineures (maximum 5 jours de travail par an).",
+      "Le maintien d'un environnement technique chez NSI pour les futures évolutions.",
+      "La maintenance corrective.",
+      "La mise à disposition d'un consultant pour former les utilisateurs (maximum 2 jours par an)."
+    ],
+    "correct": [
+      4,
+      0,
+      3
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Associez les phases du modèle Waterfall avec les bonnes activités :",
+    "type": "multiple",
+    "options": [
+      "Requirements : Rédaction du cahier des charges",
+      "Analysis : Identification des règles métiers",
+      "Design : Choix d'architecture technique",
+      "Code : Déploiement du produit",
+      "Test : Vérification de la conformité par rapport aux critères d'acceptation",
+      "Maintenance : Déploiement correctifs et/ou améliorations fonctionnelles"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Dans PRINCE2, que vise le thème RISQUE ?",
+    "type": "multiple",
+    "options": [
+      "Dans PRINCE2, le thème RISQUE vise à assurer que la gestion des risques fait partie intégrante de la gestion de projet, et que les risques sont régulièrement surveillés et réévalués.",
+      "Dans PRINCE2, le thème RISQUE vise à fournir une méthode systématique pour identifier, évaluer et répondre aux risques de manière proactive.",
+      "Dans PRINCE2, le thème RISQUE vise à aider le Comité de Pilotage, le Chef de Projet et les autres parties prenantes à prendre des décisions éclairées face aux risques.",
+      "Dans PRINCE2, le thème RISQUE vise à aider le Comité de Pilotage à contrôler les modifications afin de prendre des décisions informées et éviter des dérives dans le projet.",
+      "Dans PRINCE2, RISQUE n'est pas un thème mais un principe."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Le positionnement de la structure IT diffère d'une entreprise à l'autre. Lorsque la structure IT est disséminée, cela signifie…",
+    "type": "single",
+    "options": [
+      "Aucune des propositions n'est correcte",
+      "Qu'il y a une structure IT dans chaque département, division, localisation",
+      "Toutes les propositions sont correctes",
+      "Que la structure IT est rattachée au service qui est le plus gros utilisateur.",
+      "Que la structure IT est rattachée à la direction générale.",
+      "Que les services IT sont externalisés."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Avec une approche incrémentale,",
+    "type": "multiple",
+    "options": [
+      "on applique les principes du TDD",
+      "on développe les différentes parties les unes après les autres",
+      "on spécifie de manière précise toutes les caractéristiques du produit",
+      "on donne une vision globale du produit",
+      "on développe au plus vite un produit minimum viable (MVP)"
+    ],
+    "correct": [
+      2,
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "question": "En entreprise, une décision est prise dans le but d'atteindre un objectif. Parmi les propositions suivantes, choisissez celle(s) qui correspond(ent) à une décision stratégique.",
+    "type": "single",
+    "options": [
+      "Toutes les propositions sont correctes.",
+      "Aucune des propositions n'est correcte",
+      "Décision qui est prise à un niveau « opérationnel » de la direction pour gérer les affaires au jour le jour.",
+      "Décision qui peut être dictée par un changement de contexte tel qu'une pandémie.",
+      "Décision qui peut être dictée par un changement de contexte tel que la présence de nouveaux éléments de concurrence (nouvel acteur, nouvelle offre...).",
+      "Décision qui engage l'organisation sur le long terme (minimum 5 ans)."
+    ],
+    "correct": [
+      5
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qu'est-ce qu'un diagramme de GANTT ?",
+    "type": "single",
+    "options": [
+      "L'acronyme GANTT signifie Global Allocation for Nominative Task Timing",
+      "Un diagramme de GANTT est utilisé pour représenter le périmètre d'un projet et les différents délivrables.",
+      "L'acronyme GANTT est un outil d'aide à la décision",
+      "Toutes les propositions sont correctes.",
+      "Un diagramme de GANTT n'inclut pas de dimension temporelle",
+      "Aucune proposition n'est correcte."
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Dans la variante RASCI, que signifie et quel est le rôle du 'S' ?",
+    "type": "single",
+    "options": [
+      "Supervisor : supervise l'exécution des tâches",
+      "Supervisor : supervise la planification des tâches",
+      "Support : s'occupe du support auprès de la clientèle",
+      "Toutes les propositions sont correctes.",
+      "Aucune proposition n'est correcte",
+      "Support : fournit les ressources nécessaires pour la bonne réalisation de la tâche"
+    ],
+    "correct": [
+      5
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Le 'C' de l'acronyme RACI signifie \"Contribute\"",
+    "type": "single",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Parmi les propositions suivantes, choisissez celle qui est correcte concernant PRINCE2.",
+    "type": "multiple",
+    "options": [
+      "Dans PRINCE2, les risques sont identifiés grâce à la stratégie de gestion des risques choisies.",
+      "Dans PRINCE2, RISQUE n'est pas un thème mais un principe.",
+      "Dans PRINCE2, le thème RISQUE vise à assurer que les risques sont régulièrement surveillés et réévalués.",
+      "Dans PRINCE2, le thème RISQUE vise à aider le Comité de Pilotage, le Chef de Projet et les autres parties prenantes à prendre des décisions éclairées face aux risques.",
+      "Dans PRINCE2, un risque est défini comme une situation ou un événement incertain, qui peut avoir un impact positif ou négatif sur les objectifs du projet."
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Quelles propositions correspondent au rôle de Scrum Master ?",
+    "type": "multiple",
+    "options": [
+      "Veille à la bonne application de la méthodologie SCRUM",
+      "Possède la \"vision\" du produit",
+      "Crée et priorise les items du backlog",
+      "Protège l'équipe des événements extérieurs perturbateurs",
+      "Aide à la collaboration entre l'équipe et le product owner"
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Avec une approche itérative,",
+    "type": "multiple",
+    "options": [
+      "on applique les principes du TDD",
+      "on développe les différentes parties les unes après les autres",
+      "on développe au plus vite un produit minimum viable (MVP)",
+      "on donne une vision globale du produit",
+      "on spécifie de manière précise toutes les caractéristiques du produit"
+    ],
+    "correct": [
+      3,
+      2
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Au niveau de l'étape 'Check' de la roue de Demming, on va :",
+    "type": "single",
+    "options": [
+      "Mesurer le gain de qualité (KPI).",
+      "Analyser l'existant.",
+      "Toutes les propositions sont correctes.",
+      "Identifier les points d'amélioration et prendre des mesures préventives ou correctives.",
+      "Aucune des propositions n'est correcte."
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Le 'A' de l'acronyme RACI signifie \"Analyst\"",
+    "type": "single",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Quelles propositions correspondent au Sprint review ?",
+    "type": "multiple",
+    "options": [
+      "Le Sprint review est une cérémonie durant laquelle le Product backlog sera mis à jour en ajoutant de nouveaux PBI ou en repriorisant les PBI existants.",
+      "Le Sprint review est une cérémonie durant laquelle on peut procéder à une révision du DoD ou du DoR",
+      "Le Sprint review est la cérémonie qui détermine l'objectif du sprint (objectif principal du sprint)",
+      "Le Sprint review est la cérémonie qui montre visuellement le travail qui a été accompli et celui restant à accomplir pour le sprint",
+      "Le Sprint review est la cérémonie à laquelle participent uniquement l'équipe de développement et le Scrum master"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 27,
+    "question": "En entreprise, une décision est prise dans le but d'atteindre un objectif. On caractérise généralement les décisions selon 3 types. Quels sont-ils ?",
+    "type": "single",
+    "options": [
+      "Décisions stratégiques, décisions politiques et décisions d'alignement",
+      "Décisions à long terme, décisions à moyen terme et décisions à court terme",
+      "Aucune des propositions n'est correcte",
+      "Décisions stratégiques, décisions tactiques et décisions opérationnelles",
+      "Décisions stratégiques, décisions financières et décisions juridiques",
+      "Décisions stratégiques, décisions d'alignement et décisions d'exploitation"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Choisissez la bonne proposition concernant le diagramme de GANTT.",
+    "type": "single",
+    "options": [
+      "Toutes les propositions sont correctes.",
+      "Aucune proposition n'est correcte.",
+      "Un diagramme de GANTT est un outil de planification et de suivi de progrès",
+      "Un diagramme de GANTT permet de voir l'état de progression d'une tâche.",
+      "Un diagramme de GANTT permet d'indiquer d'éventuelles dépendances entre des tâches.",
+      "Un diagramme de GANTT inclut une dimension temporelle"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Parmi les propositions suivantes concernant PRINCE2, choisissez celle qui est correcte.",
+    "type": "single",
+    "options": [
+      "Toutes les propositions sont correctes.",
+      "Dans PRINCE2, un thème est une ligne directrice fondamentale à suivre pour garantir que le projet est bien structuré, contrôlé et géré de manière appropriée.",
+      "Dans PRINCE2, un thème est un aspect clé de la planification qui doit être continuellement pris en compte.",
+      "Dans PRINCE2, un thème est un ensemble d'étapes séquentielles qui guident la gestion et la réalisation d'un projet.",
+      "Aucune des propositions n'est correcte",
+      "Dans PRINCE2, un thème est lié à une décision qui engage l'organisation sur le long terme."
+    ],
+    "correct": [
+      4
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Le positionnement de la structure IT diffère d'une entreprise à l'autre. Lorsque la structure IT est centralisée, cela signifie...",
+    "type": "single",
+    "options": [
+      "Toutes les propositions sont correctes",
+      "Qu'elle est positionnée au centre de l'organigramme",
+      "Aucune des propositions n'est correcte",
+      "Qu'elle est rattachée au service qui est le plus gros utilisateur",
+      "Qu'elle est indépendante du reste de l'organigramme",
+      "Que les services IT sont sous-traités à un organisme central."
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Le positionnement de la structure IT diffère d'une entreprise à l'autre. Lorsque la structure IT est fragmentée, cela signifie...",
+    "type": "single",
+    "options": [
+      "que la structure IT est rattachée au service qui est le plus gros utilisateur.",
+      "qu'il y a une structure IT par centre de coûts (administratif, gestion du personnel, production, sous-traitance...)",
+      "qu'il y a une structure IT par localisation (europe, asie, amérique…)",
+      "qu'il y a une structure IT par département (finance, comptabilité, production…)",
+      "Toutes les propositions sont correctes",
+      "Aucune des propositions n'est correcte"
+    ],
+    "correct": [
+      5
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Quelles propositions correspondent au Product backlog ?",
+    "type": "multiple",
+    "options": [
+      "Le Product Backlog est créé au début du sprint",
+      "Le Product Backlog est un ensemble de PBI sélectionnés pour le sprint",
+      "Le Product Backlog est accessible à toutes les parties prenantes",
+      "Le Product Backlog est une liste priorisée de tâches",
+      "Le Product Backlog est dérivé de la Roadmap et des exigences du produit"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Parmi les propositions suivantes concernant les thèmes PRINCE2, choisissez celle qui est correcte.",
+    "type": "single",
+    "options": [
+      "Dans PRINCE2, les thèmes sont des étapes séquentielles qui guident la gestion et la réalisation d'un projet.",
+      "Dans PRINCE2, les thèmes fournissent une structure pour s'assurer que tous les aspects essentiels de la gestion du projet sont correctement gérés.",
+      "Dans PRINCE2, les thèmes sont des lignes directrices fondamentales à suivre pour garantir que le projet est bien structuré, contrôlé et géré de manière appropriée.",
+      "Dans PRINCE2, les thèmes sont liés à des décisions qui engagent l'organisation sur le long terme.",
+      "Toutes les propositions sont correctes.",
+      "Aucune des propositions n'est correcte."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Concernant le WBS, choisissez la bonne réponse :",
+    "type": "single",
+    "options": [
+      "L'acronyme WBS signifie Work Breakdown System",
+      "Un WBS est utilisé pour représenter le périmètre d'un projet et les différents délivrables",
+      "Un WBS inclut une dimension temporelle.",
+      "Le WBS est un outil de planification",
+      "Toutes les propositions sont correctes.",
+      "Aucune proposition n'est correcte."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Parmi les propositions suivantes, choisissez celle(s) qui représente(nt) des objectifs de la gouvernance IT.",
+    "type": "multiple",
+    "options": [
+      "L'alignement stratégique des systèmes et processus IT avec les objectifs stratégiques définis par la direction",
+      "Assurer le bon déroulement des activités et des processus au quotidien.",
+      "Le pilotage par projet.",
+      "La supervision des performances via des indicateurs de performance",
+      "La définition de la nature des relations d'autorité hiérarchique et fonctionnelle"
+    ],
+    "correct": [
+      3,
+      0
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Une offre au forfait correspond à :",
+    "type": "single",
+    "options": [
+      "Une provision utilisée sur base de mini-forfaits",
+      "Un projet dans lequel une méthodologie agile est appliquée",
+      "Une mise à disposition d'un ou plusieurs collaborateurs à un tarif journalier fixe sur une durée définie",
+      "Un projet à prix fixe sur un périmètre défini",
+      "Toutes les propositions sont correctes",
+      "Aucune des propositions n'est correcte"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Une caractéristique d'une structure organisationnelle hiérarchique est :",
+    "type": "single",
+    "options": [
+      "La rapidité du processus de prise de décision",
+      "Être particulièrement adaptée aux organisations qui fonctionnent en mode projet",
+      "Avoir une chaîne de commandement verticale assurant l'unicité de commandement",
+      "Regrouper les collaborateurs en fonction de leur rôle et compétences",
+      "Toutes les propositions sont correctes",
+      "Aucune des propositions n'est correcte"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Le 'C' de l'acronyme RACI signifie \"Consulted\"",
+    "type": "single",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Une des caractéristique d'une structure organisationnelle matricielle est...",
+    "type": "single",
+    "options": [
+      "de donner une grande clarté aux collaborateurs en ce qui concerne les responsabilités hiérarchiques et fonctionnelles",
+      "de grouper les collaborateurs en fonction de leur rôle dans l'entreprise (et de leurs compétences)",
+      "d'être particulièrement adaptée aux organisations qui fonctionnent en mode projet",
+      "d'avoir une chaîne de commandement verticale assurant l'unicité de commandement",
+      "Toutes les propositions sont correctes",
+      "Aucune des propositions n'est correcte"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Le cycle en V est une évolution de la méthodologie Waterfall qui comporte une phase montante durant laquelle on spécifie le produit de manière de plus en plus détaillée.",
+    "type": "single",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 41,
+    "question": "En entreprise, une décision est prise dans le but d'atteindre un objectif. Parmi les propositions suivantes, choisissez celle(s) qui corresponde(nt) à une décision opérationnelle.",
+    "type": "single",
+    "options": [
+      "Aucune des propositions n'est correcte",
+      "Décision qui engage l'organisation sur le long terme (minimum 5 ans)",
+      "Décision qui engage l'organisation sur le court terme (2 à 5 ans)",
+      "Décision qui concerne la gestion courante de l'entreprise",
+      "Toutes les propositions sont correctes",
+      "Décision qui est difficilement réversible et qui présente un risque"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Parmi les propositions suivantes, choisissez celle(s) qui représente(nt) des objectifs de la gouvernance IT.",
+    "type": "multiple",
+    "options": [
+      "Prendre en compte les exigences de conformité externes telles que le RGPD.",
+      "La gestion optimale des ressources techniques, humaines et financières.",
+      "La mise en place de la structure organisationnelle (pyramidale, fonctionnelle, matricielle...).",
+      "Faciliter la collaboration et la coordination entre (groupes de) collaborateurs.",
+      "La définition de la nature des relations d'autorité hiérarchique et fonctionnelle."
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Choisissez la bonne proposition concernant le WBS.",
+    "type": "single",
+    "options": [
+      "L'acronyme WBS signifie Work Breakdown Structure",
+      "Toutes les propositions sont correctes.",
+      "Un WBS inclut une dimension hiérarchique entre les délivrables.",
+      "Aucune proposition n'est correcte.",
+      "Un WBS est utilisé pour représenter le périmètre d'un projet et les différents délivrables",
+      "Un WBS n'inclut pas de dimension temporelle."
+    ],
+    "correct": [
+      1
+    ]
+  }
+]

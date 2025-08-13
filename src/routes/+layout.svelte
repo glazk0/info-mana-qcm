@@ -1,5 +1,6 @@
 <script lang="ts">
 	import '../app.css';
+
 	import favicon from '$lib/assets/favicon.svg';
 
 	let { children } = $props();
@@ -7,6 +8,9 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
+	<title>Info Mana QCM</title>
 </svelte:head>
 
-{@render children?.()}
+<div class="flex min-h-screen flex-col">
+	{@render children?.()}
+</div>
